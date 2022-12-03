@@ -1,0 +1,14 @@
+[
+	uuid(1e72d56f-eec6-44d3-bbed-5caa50790812),
+	version(1.0),
+]
+interface DefaultIfName
+{
+
+	long Proc0(
+	);
+
+	void Proc1(
+		[in]long arg_0,
+		[in][string]  wchar_t* arg_1);
+}
