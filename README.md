@@ -1,6 +1,6 @@
 # SysmonEoP
 
-Proof of Concept for arbitrary file delete/write in Sysmon (CVE-2022-41120/CVE-2022-XXXXX)
+Proof of Concept for arbitrary file delete/write in Sysmon (CVE-2022-41120/CVE-2022-44704)
 
 # Vulnerability
 
